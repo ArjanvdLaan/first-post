@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid black;
+  font-family: "Lucida Console";
+}
+
+p {
+  font-style: oblique;
+}
+
+.metadata {
+  border: 1px solid black;
+}
+
+.table {
+  background-color: honeydew;
+}
+
+.metadata{
+  background-color: aliceblue;
+}
+
+.code {
+  font-style: italic;
+}
